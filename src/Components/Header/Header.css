@@ -1,0 +1,61 @@
+.top-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px;
+}
+
+.logo {
+    width: 50px;
+}
+
+.font-style {
+    margin-right: 30px;
+    text-transform: capitalize;
+}
+
+
+
+nav ul .nav-link {
+    display: inline-block;
+    margin: 10px 10px;
+    text-decoration: none;
+    font-weight: 500;
+    color: rgb(26, 23, 23);
+    font-size: 18px;
+}
+
+.sign__up__button {
+    display: inline-block;
+    background-color: #FF6F00;
+    color: #fff;
+    font-size: 13px;
+    border-radius: 20px;
+    padding: 5px 20px;
+    outline: none;
+    border: none;
+    text-transform: uppercase;
+    position: absolute;
+    top: 88px;
+    right: 63px;
+
+
+}
+
+.login__button {
+    width: 170px;
+    display: inline-block;
+    background-color: #F2F2F2;
+    color: #000;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 20px;
+    box-shadow: 2Opx #fff;
+    padding: 10px 20px 10px;
+    outline: none;
+    border: none;
+    text-align: left;
+    text-transform: uppercase;
+    margin-left: 450px !important;
+    position: relative;
+}

@@ -1,0 +1,22 @@
+.available__body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    text-align: center;
+}
+
+.img-fluid {
+    width: 150px;
+    border-radius: 100px;
+}
+
+.button__style {
+    width: 120px;
+    background-color: #644F9C;
+    color: #F2F2F2;
+    border-radius: 20px;
+    padding: 5px 30px;
+    outline: none;
+    border: none;
+}

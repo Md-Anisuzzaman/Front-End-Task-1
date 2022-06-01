@@ -1,0 +1,32 @@
+.banner__body{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:0px 50px;
+}
+
+.banner__left{
+width: 50%;
+}
+
+.banner__right {
+  width: 50%;
+  text-align: center;
+}
+
+.banner__img{
+   width: 100%;
+   border-radius: 10px;
+   /* object-fit: cover; */
+}
+
+.learn__more{
+  width: 120px;
+  background-color: #FF6F00;
+  color: #fff;
+  border-radius: 10px;
+  padding: 10px 15px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
